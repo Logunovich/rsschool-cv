@@ -11,3 +11,18 @@ I am the Frontend Developer with great aspiration to take new challenges. Web de
 * React 
 * TypeScript
 * Redux
+## My own project
+[R24.by](https://r24.by/)
+## Code Example
+```const numbers = [4, 2, 5, 1, 3];
+numbers.sort(function(a, b) {
+  return a - b;
+});
+console.log(numbers);
+```
+## Education
+* Belarusian State University
+* JavaScript course on Udemy
+* React and Redux course
+## English
+B1
