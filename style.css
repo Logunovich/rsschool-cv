@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Roboto+Condensed:wght@300;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+a:hover {
+    color: rgb(165, 165, 165);
+}
+h3 {
+    font-size: 30px;
+    color: rgb(121, 121, 121);
+    margin: 0;
+    padding-top: 10px;
+}
+.main__block {
+    width: 780px;
+    margin: 0 auto;
+}
+
+.top__block, .skills__block, .education__block{
+    display: flex;
+    justify-content: space-between;
+}
+
+.top__block_photo, .top__block_contacts, .skills__block_skills,.skills__block_project, .education__block_ed, .education__block_english {
+    width: 50%;
+}
+
+.skills__block_project a{
+    font-size: 20px;
+}
+
+.top__block_photo img{
+    width: 80%;
+}
+
+.code__block_code {
+    background-color: rgb(99, 99, 99);
+    padding: 30px;
+    color:azure;
+}
+
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif; */
